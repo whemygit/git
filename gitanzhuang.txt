@@ -1,0 +1,6 @@
+git下载地址
+https://git-for-windows.github.io/
+简明教程
+http://rogerdudler.github.io/git-guide/index.zh.html
+tortoisegit下载地址
+http://rogerdudler.github.io/git-guide/index.zh.html
